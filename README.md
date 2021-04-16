@@ -1,4 +1,4 @@
-This is a tool for playing with Linux 5.12's new Landlock feature.
+This is a tool for playing with Linux 5.13's new Landlock feature.
 
 Landlock lets processes lock themselves into a subset of their file
 access permissions.
